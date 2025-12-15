@@ -5,8 +5,8 @@ Creation of a system that will idetify fraud patterns, high-risk Segment and Dev
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
-Portfolio Project: Master Data Management Analysis
-GitHub: github.com/rgluisfin-ui/mdm-contact-deduplication-project
+Portfolio Project: E-Commerce-Fraud-Detection-Prevention
+GitHub: github.com/rgluisfin-ui/E-Commerce-Fraud-Detection-Prevention
 
 # Projec Background
 Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
