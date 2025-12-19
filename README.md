@@ -10,15 +10,15 @@
 A comprehensive fraud detection analysis system for e-commerce transactions, featuring exploratory data analysis, SQL-based analytics, and interactive Tableau dashboards.
 
 ### Key Features
-- ✅ **10,000+ transactions analyzed** across multiple dimensions
-- ✅ **Python EDA** with statistical insights and visualizations
-- ✅ **PostgreSQL queries** for deep-dive analysis
-- ✅ **Interactive Tableau dashboard** for real-time monitoring
-- ✅ **Actionable insights** for fraud prevention strategies
+-  **10,000+ transactions analyzed** across multiple dimensions
+-  **Python EDA** with statistical insights and visualizations
+-  **PostgreSQL queries** for deep-dive analysis
+-  **Interactive Tableau dashboard** for real-time monitoring
+-  **Actionable insights** for fraud prevention strategies
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Our e-commerce platform is experiencing financial losses due to fraudulent transactions. This project aims to:
 - Identify high-risk transaction patterns
@@ -28,7 +28,7 @@ Our e-commerce platform is experiencing financial losses due to fraudulent trans
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** Synthetic fraud transaction data
 - **Records:** 10,000 transactions
@@ -51,7 +51,7 @@ Our e-commerce platform is experiencing financial losses due to fraudulent trans
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.9+
