@@ -1,11 +1,11 @@
-# 🔍 Fraud Detection Analysis Project
+# Fraud Detection Analysis Project
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-2023+-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 📋 Project Overview
+## Project Overview
 
 A comprehensive fraud detection analysis system for e-commerce transactions, featuring exploratory data analysis, SQL-based analytics, and interactive Tableau dashboards.
 
